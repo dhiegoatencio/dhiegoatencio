@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <a href="https://app.daily.dev/DhiHendrix"><img src="https://api.daily.dev/devcards/a378eb77feac4a26b74ac5b8dba6381a.png?r=gio" width="400" alt="DHIEGO HENDRIX ATENCIO's Dev Card"/></a>
 
